@@ -33,5 +33,3 @@ The dataset used in this project is the **MNIST dataset**, a collection of 28x28
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/ikramel-hajri/PySpark-MNIST-Clustering.git
-
-   
